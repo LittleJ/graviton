@@ -13,7 +13,7 @@ Preview: https://littlej.github.io/graviton/
 
 ## Key features
 
-- <table> layout
+- `<table>` layout
 - Inline css
 - No image
 - Very basic css rules
