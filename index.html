@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Graviton</title>
+    <style media="screen">
+      body {
+        min-height: 100vh;
+        font-family: Verdana, sans-serif;
+        padding: 0;
+        margin: 0;
+        text-align: center;
+      }
+      .col-container {
+        display: table;
+        width: 100%;
+        min-height: 100vh;
+      }
+      .col {
+        display: table-cell;
+        vertical-align: middle;
+        cursor: pointer;
+      }
+      .dark {
+        background-color: #333333;
+        color: #FFFFFF;
+      }
+      .light {
+        background-color: #F5F5F5;
+        color: #444444;
+      }
+    </style>
+  </head>
+  <body>
+
+    <div class="col-container">
+      <div class="col dark" onclick="location.href='dark.html';">
+        <h2>DARK</h2>
+        <p>Graviton</p>
+      </div>
+      <div class="col light" onclick="location.href='light.html';">
+        <h2>LIGHT</h2>
+        <p>Graviton</p>
+      </div>
+    </div>
+
+  </body>
+</html>

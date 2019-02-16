@@ -1,0 +1,30 @@
+{
+  "name": "@littlej/graviton",
+  "version": "1.0.0",
+  "description": "A simple but universal email template",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LittleJ/graviton.git"
+  },
+  "keywords": [
+    "html",
+    "email",
+    "template",
+    "blank",
+    "boilerplate",
+    "minimalist"
+  ],
+  "author": {
+    "name": "Little J",
+    "url": "https://www.littlej.fr"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LittleJ/graviton/issues"
+  },
+  "homepage": "https://github.com/LittleJ/graviton#readme"
+}
