@@ -2,6 +2,8 @@
 
 A simple but universal email template. A boilerplate for your next projects :-)
 
+Preview: https://littlej.github.io/graviton/
+
 
 ## Aim
 
